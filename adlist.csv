@@ -33,4 +33,3 @@ id,address,enabled,date_added,date_modified,comment,date_updated,number,invalid_
 32,https://v.firebog.net/hosts/lists.php?type=nocross,1,1662292470,1662292470,,1662292818,0,0,1
 33,https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser,1,1662292470,1662292470,,1662292819,3496,0,1
 34,https://raw.githubusercontent.com/root-host/Spotify-AdBlock/master/domains2,1,1662292470,1662292470,,1662292819,43,0,1
-35,https://raw.githubusercontent.com/kboghdady/youTube_ads_4_pi-hole/master/youtubelist.txt,1,1662292470,1662292470,,1662292820,16848,0,1
